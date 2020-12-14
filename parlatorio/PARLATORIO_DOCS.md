@@ -1,14 +1,14 @@
-## Parlatorio Docs
+# Parlatorio Docs
 
-### Sumário
+## Sumário
 
-#### Movimentação
-#### Inventário
-#### Energia
-#### Transportando
-#### Minerando
-#### Derretendo
-#### Construindo
+### Movimentação
+### Inventário
+### Energia
+### Transportando
+### Minerando
+### Derretendo
+### Construindo
 
 
 ### Movimentação
