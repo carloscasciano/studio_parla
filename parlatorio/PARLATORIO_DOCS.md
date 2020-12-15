@@ -28,11 +28,13 @@
 
 ### Transportando
 - Esteiras e produtos
-- Construindo (Coloacar, Tirar, Rotacionar)
+- Construindo (Colocar, Tirar, Rotacionar)
 - Dois lados de uma esteira
 - Divisor
 - Tunel
-- 
+
+
+### Minerando
 
 - Clique direito
 - Clique esquerdo
