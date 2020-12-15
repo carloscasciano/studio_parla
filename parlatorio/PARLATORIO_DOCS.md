@@ -14,6 +14,7 @@
 ### Movimentação
 - WASD
 - zoom
+- M
 
 ### Inventário
 - Abrir Inventário
@@ -33,16 +34,12 @@
 - Divisor
 - Tunel
 
-
 ### Minerando
-
 - Clique direito
 - Clique esquerdo
 - Tecla E
 - Tecla R
 - Tecla Q
-
-
 
 #### Extras
 - Aproveitar espaço
