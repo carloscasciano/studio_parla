@@ -16,10 +16,10 @@
 - Andando
 
 ![](wasd.gif)
+<kbd></kbd>
+Use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd para se movimentar.
 
-Use as teclas W A S D para se movimentar.
-
-'''W''' para cima
+<kbd>W</kbd> para cima
 A para esquerda
 S para direita
 D para baixo
