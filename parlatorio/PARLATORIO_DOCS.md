@@ -16,15 +16,18 @@
 - Andando
 
 ![](wasd.gif)
-<kbd></kbd>
-Use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd para se movimentar.
+
+Use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> para se movimentar.
 
 <kbd>W</kbd> para cima
-A para esquerda
-S para direita
-D para baixo
 
-As combinações das teclas faz com que você se movimente na diagonal (ex: W + A te movimenta para a diagonal superior direita)
+<kbd>A</kbd> para esquerda
+
+<kbd>S</kbd> para direita
+
+<kbd>D</kbd> para baixo
+
+As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd>W</kbd> + <kbd>A</kbd> te movimenta para a diagonal superior direita)
 
 
 - zoom
