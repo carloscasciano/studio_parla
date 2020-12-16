@@ -18,12 +18,13 @@
 ![](wasd.gif)
 
 Use as teclas W A S D para se movimentar.
-W para cima
+
+'''W''' para cima
 A para esquerda
 S para direita
 D para baixo
 
-As combinações das teclas faz com que você se movimente na diagonal (ex: W + A te movimenta para a lateral superior direita)
+As combinações das teclas faz com que você se movimente na diagonal (ex: W + A te movimenta para a diagonal superior direita)
 
 
 - zoom
