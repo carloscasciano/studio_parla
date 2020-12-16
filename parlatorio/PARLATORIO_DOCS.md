@@ -13,7 +13,7 @@
 
 ### Movimentação
 - Andando
-![](name-of-giphy.gif)
+![](wasd.gif)
 https://media.giphy.com/media/9BkIfLyltLZYauhcO2/giphy.gif
 - WASD
 - zoom
