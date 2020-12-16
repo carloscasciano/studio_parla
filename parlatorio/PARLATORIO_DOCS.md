@@ -12,10 +12,20 @@
 
 
 ### Movimentação
+
 - Andando
+
 ![](wasd.gif)
-https://media.giphy.com/media/9BkIfLyltLZYauhcO2/giphy.gif
-- WASD
+
+Use as teclas W A S D para se movimentar.
+W para cima
+A para esquerda
+S para direita
+D para baixo
+
+As combinações das teclas faz com que você se movimente na diagonal (ex: W + A te movimenta para a lateral superior direita)
+
+
 - zoom
 - M
 
