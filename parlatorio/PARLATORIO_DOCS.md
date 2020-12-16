@@ -12,6 +12,9 @@
 
 
 ### Movimentação
+- Andando
+![](name-of-giphy.gif)
+https://media.giphy.com/media/9BkIfLyltLZYauhcO2/giphy.gif
 - WASD
 - zoom
 - M
