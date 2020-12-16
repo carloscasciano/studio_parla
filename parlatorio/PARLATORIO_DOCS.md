@@ -17,8 +17,8 @@
 - M
 
 ### Inventário
-- Abrir Inventário
-- Baus
+- Abrir Fechar Inventário
+- Baús
 - Clicar e arrastar
 - Barra de Favoritos
 
