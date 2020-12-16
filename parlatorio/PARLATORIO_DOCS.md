@@ -31,10 +31,16 @@ As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd
 
 
 - zoom
-- M
+
+O <kbd>scroll</kbd> do mouse aumenta e diminui o zoom.
+
 
 ### Inventário
+
 - Abrir Fechar Inventário
+
+
+
 - Baús
 - Clicar e arrastar
 - Barra de Favoritos
