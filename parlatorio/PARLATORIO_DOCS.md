@@ -39,7 +39,7 @@ O <kbd>scroll</kbd> do mouse aumenta e diminui o zoom.
 
 - Abrir Fechar Inventário
 
-
+A tecla <kbd>E</kbd> abre o seu inventário
 
 - Baús
 - Clicar e arrastar
