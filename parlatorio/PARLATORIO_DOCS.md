@@ -3,10 +3,12 @@
 ## Sumário
 
 1. [Movimentação](#movimentacao)
-2. Inventário
-3. Energia
-4. Transportando e Carregando
-5. Minerando
+2. [Inventário](#inventario)
+3. [Energia](#energia)
+4. [Transportando e Carregando](#transportando)
+5. [Minerando](#minerando)
+6. [Fundições](#fundicoes)
+7. [Máquinas de Montagem](#montagem)
 
 ### Movimentação  <a name="movimentacao"></a>
 
