@@ -39,15 +39,15 @@ A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 A tecla <kbd>E</kbd> abre o seu inventário.
 
+#### Baús
+
+Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
+
 #### Barra de Favoritos
 
 Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
-:boom: DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursos para o estado inicial caso você se perca com seus itens.
-
-#### Baús
-
-Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
+:boom: DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursor para o estado inicial caso você se perca com seus itens.
 
 ---
 
