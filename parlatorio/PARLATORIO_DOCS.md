@@ -21,14 +21,13 @@ Use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> para se movime
 
 As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd>W</kbd> + <kbd>A</kbd> te movimenta para a diagonal superior direita)
 
-
-- zoom
+#### Zoom
 
 ![](zoom.gif)
 
 O <kbd>scroll</kbd> do mouse aumenta e diminui o zoom.
 
-- Mapa
+#### Mapa
 
 A tecla <kbd>M</kbd> abre e fecha o mapa.
 
