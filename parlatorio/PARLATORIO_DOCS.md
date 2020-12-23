@@ -171,7 +171,7 @@ A seta para onde a mineradora aponta é aonde será depositada a pedra do minér
 
 ### Fundições
 
-![](esteira_2_elements.gif)
+![](smelting.gif)
 
 Minério bruto pode ser transformado em chapas usando a Fornalha de Aço.
 
