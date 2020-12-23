@@ -112,11 +112,25 @@ Dicas Quentes:
 - É possível se movimentar mais rápido (ou devagar) andando sobre uma faixa de esteira.
 
 ### Minerando
-- Clique direito
-- Clique esquerdo
-- Tecla E
-- Tecla R
-- Tecla Q
+
+Minério bruto é o elemento base para todas as construções. Ele tem o formato de 'pedrinhas' e é diferenciado por cores:
+
+- Preto é o CARVÃO
+- Marrom é o COBRE
+- Azul é o FERRO
+- Cinza é a PEDRA (não estará presente na dinâmica)
+
+É possível retirar minérios do chão com a mineradora, ela precisa de energia para funcionar e deve ser colocada sobre uma camada de minérios qualquer.
+
+A seta para onde a mineradora aponta é aonde será depositada a pedra do minério extraído. É recomendado jogá-lo em uma esteira ou em um baú.
+
+DICA QUENTE:
+
+- Mais mineradoras, mais minérios.
+
+### Fundições
+
+
 
 #### Extras
 - Aproveitar espaço
