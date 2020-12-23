@@ -47,7 +47,7 @@ Baús guardam items, você pode depositar ou retirar items deles para seu invent
 
 Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
-:boom: DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursor para o estado inicial caso você se perca com seus itens.
+:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> volta seu cursor para o estado inicial caso você se perca com seus itens.
 
 ---
 
@@ -63,7 +63,7 @@ Caso o ícone acima esteja piscando, o elemento em questão está sem energia e 
 O raio de ação de um poste é determinado pela área ao redor dele quando clicado.
 Garanta que existam fios entre os postes, eles são criados automaticamente quando um poste está dentro do raio de atuação de outro.
 
-DICA QUENTE: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
+:boom: DICA QUENTE :boom: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
 
 ---
 
@@ -112,7 +112,7 @@ O braço pode retirar e colocar items:
 - em fundições
 - em máquinas de automatização
 
-Dicas Quentes:
+:boom: DICAS QUENTES :boom:
 
 - É possível construir uma faixa de esteiras mais rapidamente segurando o botão direito do mouse e andando.
 
@@ -135,7 +135,7 @@ Minério bruto é o elemento base para todas as construções. Ele tem o formato
 
 A seta para onde a mineradora aponta é aonde será depositada a pedra do minério extraído. É recomendado jogá-lo em uma esteira ou em um baú.
 
-DICAS QUENTES:
+:boom: DICAS QUENTES :boom:
 
 - Mais mineradoras, mais minérios.
 
@@ -180,7 +180,7 @@ Principais receitas para a dinâmica:
 
 ---
 
-#### Mais Dicas Quentes
+#### :boom: Mais DICAS QUENTES :boom:
 
 - Espaço também pode ser considerado um recurso, planejamento antes de construir garante organização.
 
