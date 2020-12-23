@@ -2,14 +2,6 @@
 
 ## Sumário
 
-### Movimentação
-### Inventário
-### Energia
-### Transportando
-### Minerando
-### Derretendo
-### Construindo
-
 
 ### Movimentação
 
@@ -34,6 +26,7 @@ As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd
 
 O <kbd>scroll</kbd> do mouse aumenta e diminui o zoom.
 
+---
 
 ### Inventário
 
@@ -50,6 +43,8 @@ DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursos para o estado inicial caso vo
 
 Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
 
+---
+
 ### Energia
 - Conexão com central
 
@@ -62,8 +57,9 @@ Caso o ícone acima esteja piscando, o elemento em questão está sem energia e 
 O raio de ação de um poste é determinado pela área ao redor dele quando clicado.
 Garanta que existam fios entre os postes, eles são criados automaticamente quando um poste está dentro do raio de atuação de outro.
 
-DICA QUENTE: Com o poste selecionado (e um número razoável de postes), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
+DICA QUENTE: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
 
+---
 
 ### Transportando e Carregando
 
@@ -103,13 +99,22 @@ Os braços mecânicos jogam elementos do ponto A para o ponto B. Durante a const
 
 É necessário energia para o braço funcionar.
 
-Um braço pega itens dos dois lados da esteira.
+O braço pode retirar e colocar items:
+
+- em esteiras (dos dois lados)
+- em baús
+- em fundições
+- em máquinas de automatização
 
 Dicas Quentes:
 
-- É possível construir uma faixa mais rapidamente segurando o botão direito do mouse e andando.
+- É possível construir uma faixa de esteiras mais rapidamente segurando o botão direito do mouse e andando.
 
 - É possível se movimentar mais rápido (ou devagar) andando sobre uma faixa de esteira.
+
+- Preste atenção na direção do braço mecânico (barra vs. seta), é um erro comum.
+
+---
 
 ### Minerando
 
@@ -130,6 +135,14 @@ DICA QUENTE:
 
 ### Fundições
 
+Minério bruto pode ser transformado em chapas.
+
+- Minério de Bronze em Chapa de Bronze
+- Minério de Ferro em Chapa de Ferro
+
+Uma mineradora precisa do minério desejado para chapa + um minério de Carvão para criar uma Chapa do minério desejado.
+
+### 
 
 
 #### Extras
