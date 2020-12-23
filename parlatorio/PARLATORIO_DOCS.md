@@ -35,29 +35,30 @@ A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 ### Inventário
 
-- Abrir Fechar Inventário
+#### Abrir Fechar Inventário
 
 A tecla <kbd>E</kbd> abre o seu inventário.
 
-- Barra de Favoritos
+#### Barra de Favoritos
 
 Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
-DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursos para o estado inicial caso você se perca com seus itens.
 
-- Baús
+:boom: DICA QUENTE: A tecla <kbd>Q</kbd> volta seu cursos para o estado inicial caso você se perca com seus itens.
+
+#### Baús
 
 Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
 
 ---
 
 ### Energia
-- Conexão com central
+#### Conexão com central
 
 A grande maioria dos elementos de trabalho exigem energia. A energia é fornecida por uma central e distribuída por postes.
 
 Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede.
 
-- Construção de postes
+#### Construção de postes
 
 O raio de ação de um poste é determinado pela área ao redor dele quando clicado.
 Garanta que existam fios entre os postes, eles são criados automaticamente quando um poste está dentro do raio de atuação de outro.
@@ -68,11 +69,11 @@ DICA QUENTE: Com o poste selecionado (e um número razoável de postes no invet�
 
 ### Transportando e Carregando
 
-- Esteiras e produtos
+#### Esteiras e produtos
 
 As esteiras são o principal meio de locomoção do jogo. São por elas que vocês transportam os materiais crus ou produzidos.
 
-- Construindo (Colocar, Tirar, Rotacionar)
+#### Construindo Esteiras (Colocar, Tirar, Rotacionar)
 
 Para construir uma estrada, basta ter a esteira selecionada e clicar com o botão direito do mouse. 
 
@@ -81,24 +82,24 @@ Para retirar uma estrada, clique e segure com o botão esquerdo do mouse.
 A tecla <kbd>R</kbd> rotaciona a estrada, é possível colocá-las nas 4 direções.
 
 
-- Dois lados de uma esteira
+#### Dois lados de uma esteira
 
 Uma esteira pode carregar materiais dos dois lados de sua esteira e pode ser dois materiais diferentes.
 
-- Divisor
+#### Divisor
 
 É possível separar ou unir faixas de esteiras com o divisor.
 
-- Tunel
+#### Tunel
 
 É possível fazer com que uma faixa de esteiras passe por baixo de outra se estiverem perpendiculares, usando o túnel.
 
-- Estrutura em Cruz
+#### Estrutura em Cruz
 
 A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 
 
-- Braços mecânicos
+#### Braços mecânicos
 
 Os braços mecânicos jogam elementos do ponto A para o ponto B. Durante a construção, o item que está do lado da 'barra' será carregado para o lado da 'seta'.
 
