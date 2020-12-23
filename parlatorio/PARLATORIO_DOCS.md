@@ -114,7 +114,7 @@ Uma esteira pode carregar materiais dos dois lados de sua esteira e podem ser do
 
 #### Esteira subterrânea
 
-![](separator.gif)
+![](tunnel.gif)
 
 É possível fazer com que uma faixa de esteiras passe por baixo de outra se estiverem perpendiculares, usando as esteiras subterrâneas.
 
