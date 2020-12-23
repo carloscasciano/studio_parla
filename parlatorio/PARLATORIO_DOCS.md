@@ -37,6 +37,8 @@ A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 #### Abrir Fechar Inventário
 
+![](inventory.gif)
+
 A tecla <kbd>E</kbd> abre o seu inventário.
 
 #### Baús
