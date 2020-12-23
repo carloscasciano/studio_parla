@@ -51,7 +51,7 @@ Baús guardam items, você pode depositar ou retirar items deles para seu invent
 
 - Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo, segundo item tem stack de 50, usuário pega 25)
 
-- Segurar a tecla <kbd>CTRL</kbd> e clicar com o cotão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo, pegar várias esteiras)
+- Segurar a tecla <kbd>CTRL</kbd> e clicar com o botão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo, pegar várias esteiras)
 
 #### Barra de Favoritos
 
@@ -59,7 +59,7 @@ Baús guardam items, você pode depositar ou retirar items deles para seu invent
 
 Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
-:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, é muito utilizado.
+:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, <b>é muito utilizado</b>.
 
 ---
 
@@ -72,12 +72,14 @@ A grande maioria dos elementos de trabalho exigem energia. A energia é fornecid
 ![](no_energy_icon.gif)
 
 Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede.
-O raio de ação de um poste é determinado pela área azul ao redor dele quando clicado.
+
+O raio de ação de um poste é determinado pela área azul ao redor dele (passe o mouse por cima).
+
 Garanta que existam fios entre os postes, eles são criados automaticamente quando obedecem uma distância mínima.
 
 ![](fast_pole_building.gif)
 
-:boom: DICA QUENTE :boom: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
+:boom: DICA QUENTE :boom: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você andar.
 
 ---
 
