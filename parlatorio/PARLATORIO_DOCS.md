@@ -65,12 +65,51 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 DICA QUENTE: Com o poste selecionado (e um número razoável de postes), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
 
 
-### Transportando
+### Transportando e Carregando
+
 - Esteiras e produtos
+
+As esteiras são o principal meio de locomoção do jogo. São por elas que vocês transportam os materiais crus ou produzidos.
+
 - Construindo (Colocar, Tirar, Rotacionar)
+
+Para construir uma estrada, basta ter a esteira selecionada e clicar com o botão direito do mouse. 
+
+Para retirar uma estrada, clique e segure com o botão esquerdo do mouse.
+
+A tecla <kbd>R</kbd> rotaciona a estrada, é possível colocá-las nas 4 direções.
+
+
 - Dois lados de uma esteira
+
+Uma esteira pode carregar materiais dos dois lados de sua esteira e pode ser dois materiais diferentes.
+
 - Divisor
+
+É possível separar ou unir faixas de esteiras com o divisor.
+
 - Tunel
+
+É possível fazer com que uma faixa de esteiras passe por baixo de outra se estiverem perpendiculares, usando o túnel.
+
+- Estrutura em Cruz
+
+A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
+
+
+- Braços mecânicos
+
+Os braços mecânicos jogam elementos do ponto A para o ponto B. Durante a construção, o item que está do lado da 'barra' será carregado para o lado da 'seta'.
+
+É necessário energia para o braço funcionar.
+
+Um braço pega itens dos dois lados da esteira.
+
+Dicas Quentes:
+
+- É possível construir uma faixa mais rapidamente segurando o botão direito do mouse e andando.
+
+- É possível se movimentar mais rápido (ou devagar) andando sobre uma faixa de esteira.
 
 ### Minerando
 - Clique direito
