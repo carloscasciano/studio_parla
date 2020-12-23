@@ -171,7 +171,9 @@ A seta para onde a mineradora aponta é aonde será depositada a pedra do minér
 
 ### Fundições
 
-Minério bruto pode ser transformado em chapas.
+![](esteira_2_elements.gif)
+
+Minério bruto pode ser transformado em chapas usando a Fornalha de Aço.
 
 - Minério de Bronze em Chapa de Bronze
 - Minério de Ferro em Chapa de Ferro
