@@ -168,6 +168,8 @@ O braço pode retirar e colocar items:
 
 ### Minerando
 
+![](mining.gif)
+
 Minério bruto é o elemento base para todas as construções. Ele tem o formato de 'pedrinhas' e é diferenciado por cores:
 
 - Preto é o CARVÃO
