@@ -158,6 +158,8 @@ O braço pode retirar e colocar items:
 
 - É possível construir uma faixa de esteiras mais rapidamente segurando o botão direito do mouse e andando.
 
+![](walk_esteiras.gif)
+
 - É possível se movimentar mais rápido (ou devagar) andando sobre uma faixa de esteira.
 
 - Preste atenção na direção do braço mecânico (barra vs. seta), é um erro comum.
