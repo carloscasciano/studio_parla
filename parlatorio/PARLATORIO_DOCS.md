@@ -24,7 +24,13 @@ As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd
 
 - zoom
 
+![](zoom.gif)
+
 O <kbd>scroll</kbd> do mouse aumenta e diminui o zoom.
+
+- Mapa
+
+A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 ---
 
@@ -129,9 +135,13 @@ Minério bruto é o elemento base para todas as construções. Ele tem o formato
 
 A seta para onde a mineradora aponta é aonde será depositada a pedra do minério extraído. É recomendado jogá-lo em uma esteira ou em um baú.
 
-DICA QUENTE:
+DICAS QUENTES:
 
 - Mais mineradoras, mais minérios.
+
+- Cuidado para não colocar uma mineradora sobre dois minérios diferentes.
+
+---
 
 ### Fundições
 
@@ -142,9 +152,36 @@ Minério bruto pode ser transformado em chapas.
 
 Uma mineradora precisa do minério desejado para chapa + um minério de Carvão para criar uma Chapa do minério desejado.
 
-### 
+---
+
+### Máquinas de Montagem
+
+É possível construir produtos mais complexos com a máquina de montagem, seguindo os seguintes passos:
+
+- Escolher a receita do que você quer construir
+- Fornecer os materiais necessários
 
 
-#### Extras
-- Aproveitar espaço
-- Linhas de produção
+Principais receitas para a dinâmica:
+
+- Cabo de Cobre
+  - Chapa de Cobre
+  
+- Engrenagem
+  - Chapa de Ferro
+  
+- Circuito Eletrônico
+  - 1 Chapa de Ferro
+  - 3 Cabo de Cobre
+  
+- Poção Vermelha (Pacote Científico)
+  - 1 Chapa de Cobre
+  - 1 Engrenagem de Ferro
+
+---
+
+#### Mais Dicas Quentes
+
+- Espaço também pode ser considerado um recurso, planejamento antes de construir garante organização.
+
+- Linhas de produção podem (e devem) ser desenvolvidas, uma esteira de recursos abastacendo várias estruturas geralmente é o melhor caminha para uma produção maior.
