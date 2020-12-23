@@ -43,7 +43,15 @@ A tecla <kbd>E</kbd> abre o seu inventário.
 
 #### Baús
 
+![](chest.gif)
+
 Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
+
+:boom: DICAS QUENTES :boom:
+
+- Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo, segundo item tem stack de 50, usuário pega 25)
+
+- Segurar a tecla <kbd>CTRL</kbd> e clicar com o cotão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo, pegar várias esteiras)
 
 #### Barra de Favoritos
 
