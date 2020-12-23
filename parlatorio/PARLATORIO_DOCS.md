@@ -133,9 +133,13 @@ A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 
 #### Balanceando uma esteira
 
+![](rebalance.gif)
+
 É possível balancear uma esteira com um separador.
 
 #### Braços mecânicos
+
+![](mech_arms.gif)
 
 Os braços mecânicos jogam elementos do ponto A para o ponto B. Durante a construção, o item que está do lado da 'barra' será carregado para o lado da 'seta'.
 
@@ -149,6 +153,8 @@ O braço pode retirar e colocar items:
 - em máquinas de automatização
 
 :boom: DICAS QUENTES :boom:
+
+![](fast_esteiras.gif)
 
 - É possível construir uma faixa de esteiras mais rapidamente segurando o botão direito do mouse e andando.
 
