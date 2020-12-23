@@ -55,23 +55,27 @@ Baús guardam items, você pode depositar ou retirar items deles para seu invent
 
 #### Barra de Favoritos
 
+![](favoritebar.gif)
+
 Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
-:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> volta seu cursor para o estado inicial caso você se perca com seus itens.
+:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, é muito utilizado.
 
 ---
 
 ### Energia
-#### Conexão com central
+
+![](energy_main.gif)
 
 A grande maioria dos elementos de trabalho exigem energia. A energia é fornecida por uma central e distribuída por postes.
 
+![](no_energy_icon.gif)
+
 Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede.
+O raio de ação de um poste é determinado pela área azul ao redor dele quando clicado.
+Garanta que existam fios entre os postes, eles são criados automaticamente quando obedecem uma distância mínima.
 
-#### Construção de postes
-
-O raio de ação de um poste é determinado pela área ao redor dele quando clicado.
-Garanta que existam fios entre os postes, eles são criados automaticamente quando um poste está dentro do raio de atuação de outro.
+![](fast_pole_building.gif)
 
 :boom: DICA QUENTE :boom: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você passar.
 
