@@ -87,30 +87,40 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 #### Esteiras e produtos
 
-As esteiras são o principal meio de locomoção do jogo. São por elas que vocês transportam os materiais crus ou produzidos.
+As esteiras são o principal meio de locomoção do jogo. São por elas que é possível transportar os materiais crus ou produzidos.
 
 #### Construindo Esteiras (Colocar, Tirar, Rotacionar)
 
+![](building_tracks.gif)
+
 Para construir uma estrada, basta ter a esteira selecionada e clicar com o botão direito do mouse. 
 
-Para retirar uma estrada, clique e segure com o botão esquerdo do mouse.
-
 A tecla <kbd>R</kbd> rotaciona a estrada, é possível colocá-las nas 4 direções.
+
+Para retirar uma estrada mal posicionada, clique e segure com o botão esquerdo do mouse.
 
 
 #### Dois lados de uma esteira
 
-Uma esteira pode carregar materiais dos dois lados de sua esteira e pode ser dois materiais diferentes.
+![](esteira_2_elements.gif)
 
-#### Divisor
+Uma esteira pode carregar materiais dos dois lados de sua esteira e podem ser dois materiais diferentes.
 
-É possível separar ou unir faixas de esteiras com o divisor.
+#### Separador
 
-#### Tunel
+![](separator.gif)
 
-É possível fazer com que uma faixa de esteiras passe por baixo de outra se estiverem perpendiculares, usando o túnel.
+É possível separar ou unir faixas de esteiras com o separador. <b>Importante para dividir recursos</b>.
+
+#### Esteira subterrânea
+
+![](separator.gif)
+
+É possível fazer com que uma faixa de esteiras passe por baixo de outra se estiverem perpendiculares, usando as esteiras subterrâneas.
 
 #### Estrutura em Cruz
+
+![](t_structure.gif)
 
 A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 
@@ -201,3 +211,5 @@ Principais receitas para a dinâmica:
 - Espaço também pode ser considerado um recurso, planejamento antes de construir garante organização.
 
 - Linhas de produção podem (e devem) ser desenvolvidas, uma esteira de recursos abastacendo várias estruturas geralmente é o melhor caminha para uma produção maior.
+
+- É possível limpar manualmente uma esteira segurando a <kbd>F</kbd>, cuidado, pois os itens vão para o inventário pessoal.
