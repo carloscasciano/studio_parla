@@ -2,8 +2,13 @@
 
 ## Sumário
 
+1. [Movimentação] (#movimentacao)
+2. Inventário
+3. Energia
+4. Transportando e Carregando
+5. Minerando
 
-### Movimentação
+### Movimentação  <a name="movimentacao"></a>
 
 #### Andando
 
@@ -124,6 +129,9 @@ Uma esteira pode carregar materiais dos dois lados de sua esteira e podem ser do
 
 A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 
+#### Balanceando uma esteira
+
+É possível balancear uma esteira com um separador.
 
 #### Braços mecânicos
 
