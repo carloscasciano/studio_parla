@@ -100,6 +100,8 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 #### Esteiras e produtos
 
+![](esteira.png)
+
 As esteiras são o principal meio de locomoção do jogo. Por elas é possível transportar materiais crus ou produzidos.
 
 #### Construindo Esteiras (Colocar, Tirar, Rotacionar)
@@ -121,11 +123,15 @@ Uma esteira pode carregar materiais por dois lados (podendo ser dois materiais d
 
 #### Separador
 
+![](divisor.png)
+
 ![](separator.gif)
 
 É possível separar ou unir faixas de esteiras com o separador. <b>Importante para dividir recursos</b>.
 
 #### Esteira subterrânea
+
+![](tunel.png)
 
 ![](tunnel.gif)
 
@@ -144,6 +150,8 @@ A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 É possível balancear uma esteira com um separador e uma esteira extra redirecionando a separação.
 
 #### Braços mecânicos
+
+![](mecarm.png)
 
 ![](mech_arms.gif)
 
@@ -174,9 +182,15 @@ O braço pode retirar e colocar items:
 
 ### Minerando  <a name="minerando"></a>
 
+![](mineradora.png)
+
 ![](mining.gif)
 
 Minério bruto é o elemento base para todas as construções. Eles têm o formato de 'pedrinhas' e são diferenciado por cores:
+
+![](carvao.png)
+![](cobre.png)
+![](ferro.png)
 
 - Preto é o CARVÃO
 - Marrom é o COBRE
@@ -197,6 +211,8 @@ A seta para onde a mineradora aponta é aonde será depositada a pedra do minér
 
 ### Fundições  <a name="fundicoes"></a>
 
+![](fornalha.png)
+
 ![](smelting.gif)
 
 Minério bruto pode ser transformado em chapas usando a Fornalha de Aço.
@@ -209,6 +225,8 @@ Uma mineradora precisa do minério desejado para chapa + um minério de Carvão 
 ---
 
 ### Máquinas de Montagem  <a name="montagem"></a>
+
+![](montagem.png)
 
 ![](building.gif)
 
