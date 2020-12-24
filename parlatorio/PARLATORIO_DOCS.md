@@ -40,7 +40,7 @@ A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 ---
 
-### Inventário
+### Inventário  <a name="inventario"></a>
 
 #### Abrir Fechar Inventário
 
@@ -70,7 +70,7 @@ Você pode arrastar itens do seu inventário para a barra de favoritos. Para lim
 
 ---
 
-### Energia
+### Energia  <a name="energia"></a>
 
 ![](energy_main.gif)
 
@@ -90,7 +90,7 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 ---
 
-### Transportando e Carregando
+### Transportando e Carregando  <a name="transportando"></a>
 
 #### Esteiras e produtos
 
@@ -156,7 +156,7 @@ O braço pode retirar e colocar items:
 
 ![](fast_esteiras.gif)
 
-- É possível construir uma faixa de esteiras mais rapidamente segurando o botão direito do mouse e andando.
+- É possível construir uma faixa de esteiras mais rapidamente segurando o botão esquerdo do mouse e andando.
 
 ![](walk_esteiras.gif)
 
@@ -166,7 +166,7 @@ O braço pode retirar e colocar items:
 
 ---
 
-### Minerando
+### Minerando  <a name="minerando"></a>
 
 ![](mining.gif)
 
@@ -189,7 +189,7 @@ A seta para onde a mineradora aponta é aonde será depositada a pedra do minér
 
 ---
 
-### Fundições
+### Fundições  <a name="fundicoes"></a>
 
 ![](smelting.gif)
 
@@ -202,15 +202,26 @@ Uma mineradora precisa do minério desejado para chapa + um minério de Carvão 
 
 ---
 
-### Máquinas de Montagem
+### Máquinas de Montagem  <a name="montagem"></a>
+
+![](smelting.gif)
 
 É possível construir produtos mais complexos com a máquina de montagem, seguindo os seguintes passos:
 
 - Escolher a receita do que você quer construir
 - Fornecer os materiais necessários
 
+![](setting_montagem.gif)
 
-Principais receitas para a dinâmica:
+Para escolher uma receita, clique em uma máquina de montagem 'virgem' e escolha o produto necessário.
+<b>Todas receitas da dinâmica estarão na terceira aba da máquina de montagem.</b>
+
+:boom: DICA QUENTE :boom:
+
+Apertar a tecla <kbd> ALT </kbd> mostra a receita que está sendo construída no momento.
+
+
+Receitas para a dinâmica:
 
 - Cabo de Cobre
   - Chapa de Cobre
@@ -232,6 +243,10 @@ Principais receitas para a dinâmica:
 
 - Espaço também pode ser considerado um recurso, planejamento antes de construir garante organização.
 
-- Linhas de produção podem (e devem) ser desenvolvidas, uma esteira de recursos abastacendo várias estruturas geralmente é o melhor caminha para uma produção maior.
+![](mass_production.gif)
+
+- Linhas de produção podem (e devem) ser desenvolvidas, uma esteira de recursos abastacendo várias estruturas geralmente é o melhor caminho para uma produção maior e mais eficiente.
+
+![](cleaning_esteiras.gif)
 
 - É possível limpar manualmente uma esteira segurando a <kbd>F</kbd>, cuidado, pois os itens vão para o inventário pessoal.
