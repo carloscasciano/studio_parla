@@ -249,21 +249,23 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 
 Receitas para a dinâmica:
 
-- Fio de de Cobre
+Fio de de Cobre ![](fiocobre.png)
 
-![](fiocobre.png) feito com 1 ![](chapacobre.png)
+- 1 ![](chapacobre.png)
 
-- Engrenagem
+Engrenagem ![](engrenagem.png)
 
-![](engrenagem.png) feito com 1 ![](chapaferro.png)
+- 1 ![](chapaferro.png)
 
-- Circuito Eletrônico
+Circuito Eletrônico ![](chipverde.png)
 
-![](chipverde.png) feito com 1 ![](chapaferro.png) e 3 ![](fiocobre.png)
+- 1 ![](chapaferro.png)
+- 3 ![](fiocobre.png)
 
-- Poção Vermelha (Pacote Científico)
+Poção Vermelha (Pacote Científico) ![](pocaovermelha.png)
 
-![](pocaovermelha.png) feito com 1 ![](chapacobre.png) e 1 ![](engrenagem.png)
+- 1 ![](chapacobre.png)
+- 1 ![](engrenagem.png)
 
 ---
 
