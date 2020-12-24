@@ -9,6 +9,7 @@
 5. [Minerando](#minerando)
 6. [Fundições](#fundicoes)
 7. [Máquinas de Montagem](#montagem)
+8. [Receitas](#receitas)
 
 ### Movimentação  <a name="movimentacao"></a>
 
@@ -247,20 +248,26 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 - Apertar a tecla <kbd> ALT </kbd> ou <kbd> CMD </kbd> mostra a receita que está sendo construída no momento.
 
 
-Receitas para a dinâmica:
+### Receitas <a name="receitas"></a>
 
 Fio de de Cobre ![](fiocobre.png)
 
 - 1 ![](chapacobre.png)
 
+---
+
 Engrenagem ![](engrenagem.png)
 
 - 1 ![](chapaferro.png)
+
+---
 
 Circuito Eletrônico ![](chipverde.png)
 
 - 1 ![](chapaferro.png)
 - 3 ![](fiocobre.png)
+
+---
 
 Poção Vermelha (Pacote Científico) ![](pocaovermelha.png)
 
