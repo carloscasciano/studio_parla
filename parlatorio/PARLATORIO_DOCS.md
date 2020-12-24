@@ -78,6 +78,8 @@ Baús guardam items, é possível depositar ou retirar items deles para o invent
 
 A grande maioria dos elementos de trabalho exigem energia. A energia é fornecida por uma central e distribuída por postes.
 
+![](poste.png)
+
 ![](no_energy_icon.gif)
 
 Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede de energia.
