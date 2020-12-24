@@ -1,1 +1,1 @@
-### Arquivos das dinâmicas do Studio
+### Arquivos públicos das dinâmicas Studio Parla
