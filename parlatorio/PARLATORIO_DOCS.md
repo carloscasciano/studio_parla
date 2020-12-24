@@ -195,7 +195,6 @@ Minério bruto é o elemento base para todas as construções. Eles têm o forma
 - Preto é o CARVÃO
 - Marrom é o COBRE
 - Azul é o FERRO
-- Cinza é a PEDRA (não estará presente na dinâmica)
 
 É possível retirar minérios do chão com a mineradora, ela precisa de energia para funcionar e deve ser colocada sobre uma camada de minérios qualquer.
 
@@ -217,7 +216,10 @@ A seta para onde a mineradora aponta é aonde será depositada a pedra do minér
 
 Minério bruto pode ser transformado em chapas usando a Fornalha de Aço.
 
-- Minério de Bronze em Chapa de Bronze
+![](chapacobre.png)
+![](chapaferro.png)
+
+- Minério de Cobre em Chapa de Cobre
 - Minério de Ferro em Chapa de Ferro
 
 Uma mineradora precisa do minério desejado para chapa + um minério de Carvão para criar uma Chapa do minério desejado.
@@ -247,11 +249,18 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 
 Receitas para a dinâmica:
 
-- Cabo de Cobre
-  - Chapa de Cobre
-  
-- Engrenagem
-  - Chapa de Ferro
+![](fiocobre.png)
+
+Fio de de Cobre precisa de:
+
+![](chapa cobre.png)
+
+
+![](engrenagem.png)
+
+Fio de de Cobre precisa de:
+
+![](chapaferro.png)
   
 - Circuito Eletrônico
   - 1 Chapa de Ferro
