@@ -249,26 +249,21 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 
 Receitas para a dinâmica:
 
-![](fiocobre.png)
+Fio de de Cobre
 
-Fio de de Cobre precisa de:
+![](fiocobre.png) feito com 1 ![](chapacobre.png)
 
-![](chapa cobre.png)
+Engrenagem
 
+![](engrenagem.png) feito com 1 ![](chapaferro.png)
 
-![](engrenagem.png)
+Circuito Eletrônico
 
-Fio de de Cobre precisa de:
+![](chipverde.png) feito com 1 ![](chapaferro.png) e 3 ![](fiocobre.png)
 
-![](chapaferro.png)
-  
-- Circuito Eletrônico
-  - 1 Chapa de Ferro
-  - 3 Cabo de Cobre
-  
-- Poção Vermelha (Pacote Científico)
-  - 1 Chapa de Cobre
-  - 1 Engrenagem de Ferro
+Poção Vermelha (Pacote Científico)
+
+![](pocaovermelha.png) feito com 1 ![](chapacobre.png) e 1 ![](engrenagem.png)
 
 ---
 
