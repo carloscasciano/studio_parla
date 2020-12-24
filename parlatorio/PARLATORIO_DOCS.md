@@ -250,29 +250,29 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 
 ### Receitas <a name="receitas"></a>
 
-Fio de de Cobre ![](fiocobre.png)
+![](fiocobre.png) Fio de Cobre 
 
-- 1 ![](chapacobre.png)
-
----
-
-Engrenagem ![](engrenagem.png)
-
-- 1 ![](chapaferro.png)
+- ![](chapacobre.png) x1
 
 ---
 
-Circuito Eletrônico ![](chipverde.png)
+![](engrenagem.png) Engrenagem 
 
-- 1 ![](chapaferro.png)
-- 3 ![](fiocobre.png)
+- ![](chapaferro.png) x1
 
 ---
 
-Poção Vermelha (Pacote Científico) ![](pocaovermelha.png)
+![](chipverde.png) Circuito Eletrônico 
 
-- 1 ![](chapacobre.png)
-- 1 ![](engrenagem.png)
+- ![](chapaferro.png) x1
+- ![](fiocobre.png) x3
+
+---
+
+![](pocaovermelha.png) Poção Vermelha (Pacote Científico) 
+
+- ![](chapacobre.png) x1
+- ![](engrenagem.png) x1
 
 ---
 
