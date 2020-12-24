@@ -56,7 +56,7 @@ Baús guardam items, é possível depositar ou retirar items deles para o invent
 
 :boom: DICAS QUENTES :boom:
 
-- Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo: braço mecânico item tem stack de 50, usuário pega 25)
+- Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo: braço mecânico tem stack de 50, usuário pega 25)
 
 - Segurar a tecla <kbd>CTRL</kbd> e clicar com o botão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo: pega todas esteiras de uma vez)
 
@@ -66,7 +66,9 @@ Baús guardam items, é possível depositar ou retirar items deles para o invent
 
 É possível arrastar itens do inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
-:boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, <b>é muito utilizado</b>.
+:boom: DICA QUENTE :boom: 
+
+- A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, <b>é muito utilizado</b>.
 
 ---
 
@@ -88,7 +90,7 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 :boom: DICA QUENTE :boom: 
 
-Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você andar.
+- Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você andar.
 
 ---
 
@@ -113,7 +115,7 @@ Para retirar uma estrada mal posicionada, clique e segure com o botão direito d
 
 ![](esteira_2_elements.gif)
 
-Uma esteira pode carregar materiais dos dois lados de sua esteira (podendo ser dois materiais diferentes).
+Uma esteira pode carregar materiais por dois lados (podendo ser dois materiais diferentes - cuidado!).
 
 #### Separador
 
@@ -220,7 +222,7 @@ Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-co
 
 :boom: DICA QUENTE :boom:
 
-Apertar a tecla <kbd> ALT </kbd> mostra a receita que está sendo construída no momento.
+- Apertar a tecla <kbd> ALT </kbd> ou <kbd> CMD </kbd> mostra a receita que está sendo construída no momento.
 
 
 Receitas para a dinâmica:
