@@ -26,7 +26,7 @@ Use as teclas <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> para se movime
 
 <kbd>D</kbd> para baixo
 
-As combinações das teclas faz com que você se movimente na diagonal (ex: <kbd>W</kbd> + <kbd>A</kbd> te movimenta para a diagonal superior direita)
+As combinações das teclas permite movimentação na diagonal (ex: <kbd>W</kbd> + <kbd>A</kbd> movimenta para a diagonal superior direita)
 
 #### Zoom
 
@@ -46,25 +46,25 @@ A tecla <kbd>M</kbd> abre e fecha o mapa.
 
 ![](inventory.gif)
 
-A tecla <kbd>E</kbd> abre o seu inventário.
+A tecla <kbd>E</kbd> abre o inventário.
 
 #### Baús
 
 ![](chest.gif)
 
-Baús guardam items, você pode depositar ou retirar items deles para seu inventário e vice-versa.
+Baús guardam items, é possível depositar ou retirar items deles para o inventário e vice-versa.
 
 :boom: DICAS QUENTES :boom:
 
-- Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo, segundo item tem stack de 50, usuário pega 25)
+- Clicar com o botão direito do mouse pega metade do stack desejado (no exemplo: braço mecânico item tem stack de 50, usuário pega 25)
 
-- Segurar a tecla <kbd>CTRL</kbd> e clicar com o botão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo, pegar várias esteiras)
+- Segurar a tecla <kbd>CTRL</kbd> e clicar com o botão esquerdo em um item, movimenta TODOS os itens do mesmo tipo (no exemplo: pega todas esteiras de uma vez)
 
 #### Barra de Favoritos
 
 ![](favoritebar.gif)
 
-Você pode arrastar itens do seu inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
+É possível arrastar itens do inventário para a barra de favoritos. Para limpar a barra de favoritos, clique com o botão do meio do mouse.
 
 :boom: DICA QUENTE :boom: A tecla <kbd>Q</kbd> 'deseleciona' o item clicado, <b>é muito utilizado</b>.
 
@@ -78,7 +78,7 @@ A grande maioria dos elementos de trabalho exigem energia. A energia é fornecid
 
 ![](no_energy_icon.gif)
 
-Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede.
+Caso o ícone acima esteja piscando, o elemento em questão está sem energia e deve ser conectado a uma rede de energia.
 
 O raio de ação de um poste é determinado pela área azul ao redor dele (passe o mouse por cima).
 
@@ -86,7 +86,9 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 ![](fast_pole_building.gif)
 
-:boom: DICA QUENTE :boom: Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você andar.
+:boom: DICA QUENTE :boom: 
+
+Com o poste selecionado (e um número razoável de postes no invetário), pressione e segure o botão esquerdo do mouse e se movimente. Uma linha de postes otimizada será criada pelo caminho que você andar.
 
 ---
 
@@ -94,24 +96,24 @@ Garanta que existam fios entre os postes, eles são criados automaticamente quan
 
 #### Esteiras e produtos
 
-As esteiras são o principal meio de locomoção do jogo. São por elas que é possível transportar os materiais crus ou produzidos.
+As esteiras são o principal meio de locomoção do jogo. Por elas é possível transportar materiais crus ou produzidos.
 
 #### Construindo Esteiras (Colocar, Tirar, Rotacionar)
 
 ![](building_tracks.gif)
 
-Para construir uma estrada, basta ter a esteira selecionada e clicar com o botão direito do mouse. 
+Para construir uma esteira, basta ter a esteira selecionada e clicar com o botão esquerdo do mouse. 
 
 A tecla <kbd>R</kbd> rotaciona a estrada, é possível colocá-las nas 4 direções.
 
-Para retirar uma estrada mal posicionada, clique e segure com o botão esquerdo do mouse.
+Para retirar uma estrada mal posicionada, clique e segure com o botão direito do mouse.
 
 
 #### Dois lados de uma esteira
 
 ![](esteira_2_elements.gif)
 
-Uma esteira pode carregar materiais dos dois lados de sua esteira e podem ser dois materiais diferentes.
+Uma esteira pode carregar materiais dos dois lados de sua esteira (podendo ser dois materiais diferentes).
 
 #### Separador
 
@@ -135,7 +137,7 @@ A estrutura mais simples para colocar dois elementos em uma esteira é a Cruz.
 
 ![](rebalance.gif)
 
-É possível balancear uma esteira com um separador.
+É possível balancear uma esteira com um separador e uma esteira extra redirecionando a separação.
 
 #### Braços mecânicos
 
@@ -147,7 +149,7 @@ Os braços mecânicos jogam elementos do ponto A para o ponto B. Durante a const
 
 O braço pode retirar e colocar items:
 
-- em esteiras (dos dois lados)
+- em esteiras (ao retirar, pega dos dois lados - ao colocar, escolhe um lado)
 - em baús
 - em fundições
 - em máquinas de automatização
@@ -156,13 +158,13 @@ O braço pode retirar e colocar items:
 
 ![](fast_esteiras.gif)
 
-- É possível construir uma faixa de esteiras mais rapidamente segurando o botão esquerdo do mouse e andando.
+- É possível construir uma faixa de esteiras mais rapidamente segurando o botão esquerdo do mouse e andando reto para a direção desejada.
 
 ![](walk_esteiras.gif)
 
 - É possível se movimentar mais rápido (ou devagar) andando sobre uma faixa de esteira.
 
-- Preste atenção na direção do braço mecânico (barra vs. seta), é um erro comum.
+- Preste atenção na direção do braço mecânico (barra vs. seta), é um erro comum. A base visual do braço dá uma dica também da direção que está apontado, duas perninhas (barra) recebe, uma perninha (seta) entrega.
 
 ---
 
@@ -170,7 +172,7 @@ O braço pode retirar e colocar items:
 
 ![](mining.gif)
 
-Minério bruto é o elemento base para todas as construções. Ele tem o formato de 'pedrinhas' e é diferenciado por cores:
+Minério bruto é o elemento base para todas as construções. Eles têm o formato de 'pedrinhas' e são diferenciado por cores:
 
 - Preto é o CARVÃO
 - Marrom é o COBRE
@@ -179,13 +181,13 @@ Minério bruto é o elemento base para todas as construções. Ele tem o formato
 
 É possível retirar minérios do chão com a mineradora, ela precisa de energia para funcionar e deve ser colocada sobre uma camada de minérios qualquer.
 
-A seta para onde a mineradora aponta é aonde será depositada a pedra do minério extraído. É recomendado jogá-lo em uma esteira ou em um baú.
+A seta para onde a mineradora aponta é aonde será depositada a pedra do minério extraído. É recomendado jogá-lo em uma esteira ou em um baú, senão a mineradora para de funcionar por estar 'entupida'.
 
 :boom: DICAS QUENTES :boom:
 
 - Mais mineradoras, mais minérios.
 
-- Cuidado para não colocar uma mineradora sobre dois minérios diferentes.
+- Cuidado para não colocar uma mineradora sobre dois minérios diferentes. É um erro comum.
 
 ---
 
@@ -204,7 +206,7 @@ Uma mineradora precisa do minério desejado para chapa + um minério de Carvão 
 
 ### Máquinas de Montagem  <a name="montagem"></a>
 
-![](smelting.gif)
+![](building.gif)
 
 É possível construir produtos mais complexos com a máquina de montagem, seguindo os seguintes passos:
 
@@ -213,7 +215,7 @@ Uma mineradora precisa do minério desejado para chapa + um minério de Carvão 
 
 ![](setting_montagem.gif)
 
-Para escolher uma receita, clique em uma máquina de montagem 'virgem' e escolha o produto necessário.
+Para escolher uma receita, clique em uma máquina de montagem 'virgem' (recem-colocada ou limpa) e escolha o produto necessário.
 <b>Todas receitas da dinâmica estarão na terceira aba da máquina de montagem.</b>
 
 :boom: DICA QUENTE :boom:
@@ -249,4 +251,4 @@ Receitas para a dinâmica:
 
 ![](cleaning_esteiras.gif)
 
-- É possível limpar manualmente uma esteira segurando a <kbd>F</kbd>, cuidado, pois os itens vão para o inventário pessoal.
+- É possível limpar manualmente uma esteira segurando a tecla <kbd>F</kbd>, cuidado, pois os itens vão para o inventário pessoal.
